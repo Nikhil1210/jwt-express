@@ -1,0 +1,20 @@
+{
+    "name": "jwt-express",
+    "version": "1.0.0",
+    "description": "jwt demo with express",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "keywords": [
+        "jwt",
+        "express",
+        "authentication"
+    ],
+    "author": "nikhil malhotra",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.2",
+        "jsonwebtoken": "^8.1.0"
+    }
+}
